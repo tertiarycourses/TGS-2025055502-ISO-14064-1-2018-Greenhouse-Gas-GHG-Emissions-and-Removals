@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+assessment/
+reference/
+qa/
+.claude/
+__pycache__/
+*.pyc
+~$*
+courseware/assets/
+courseware/cover-hero-v1.png
+courseware/archive/
+
