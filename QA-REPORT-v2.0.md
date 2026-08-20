@@ -74,4 +74,4 @@ Audit date: 20 August 2026
 - LMS/TMS dry-run completed, followed by a full read-modify-write update (`HTTP 200`) and live-link readback for all seven fields.
 - Before/after audit confirmed all unrelated course fields were preserved and the 4-topic structure remained semantically unchanged.
 - The requested `/tms-push-qa` command was not installed. Equivalent safeguards were completed through this QA, a secure 46-field before snapshot, TMS dry-run, duplicate-resolution check, production write and semantic readback.
-
+- The stale unrelated GitHub `master` history was replaced with the approved 52-file public package using an exact force-with-lease; local and remote commit IDs matched and no `.env`, assessments, references, QA renders or build tooling appeared in the remote tree.
