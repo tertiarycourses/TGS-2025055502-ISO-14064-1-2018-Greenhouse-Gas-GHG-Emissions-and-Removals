@@ -13,3 +13,10 @@ courseware/assets/
 courseware/cover-hero-v1.png
 courseware/archive/
 
+
+# Facilitator Guide + Assessment Plan embed the answer keys and rubric:
+# trainer-only (Google Drive + TMS), never GitHub
+**/FG_*
+**/FG-*
+**/Assessment_Plan_*
+**/AP-*
